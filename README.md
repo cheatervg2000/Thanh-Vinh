@@ -1,2 +1,2 @@
 # Thanh-Vinh
-Quá trình học tập lập trình
+Bài tập từ điển
